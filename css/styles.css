@@ -1,0 +1,124 @@
+body{
+    margin:0;
+    text-align: center;
+}
+.head{
+    background-color: #B5EAEA;
+    position: relative;
+    padding-top: 100px;
+}
+.side2{
+    width: 25%;
+    position: absolute;
+    right:200px;
+    top:25px;
+}
+.side1{
+    width: 25%;
+    position: absolute;
+    left: 30px;
+    top: 80px;
+}
+.cenpic{
+    width: 40%;
+    position: relative;
+}
+
+h1{
+    font-size: 50px;
+    margin:50px auto 0 auto;
+    font-family: 'Tilt Prism', cursive;
+    color: #364F6B;
+}
+h2{
+    font-family: cursive;
+    padding: 15px;
+    color: #364F6B;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #30AADD;
+}
+p{
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 2;
+    color: #1E2022;
+}
+ul{
+    position: relative;
+    margin-left: 250px;
+    padding: 15px;
+    line-height: 2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para{
+    width:40%;
+    margin:auto;
+}
+hr{
+    border: dotted #364F6B 6px;
+    border-bottom: none;
+    width:15%;
+    margin: 100px auto;
+}
+
+.pro{
+    margin-top: 50px;
+    width: 15%;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+}
+.skil{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.propic{
+    width: 25%;
+    float: right;
+    margin-left:30px;
+}
+.btn{
+        font-size:30px;
+        font-family:Arial;
+        width:200px;
+        height:100px;
+        border-width:1px;
+        color:#fff;
+        border-color:#84bbf3;
+        font-weight:bold;
+        border-top-left-radius:6px;
+        border-top-right-radius:6px;
+        border-bottom-left-radius:6px;
+        border-bottom-right-radius:6px;
+        box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+        text-shadow:inset 0px 1px 0px #528ecc;
+        background:linear-gradient(#79bbff, #378de5);
+        margin-bottom: 100px;
+      }
+      
+      .btn:hover {
+        background: linear-gradient(#378de5, #79bbff);
+      }
+.bottom{
+        margin-top: 100px;
+        background-color: #B5EAEA;
+      }
+.linkedin{
+    width:4%;
+    padding: 30px;
+}
+.github{
+    width:4%;
+    padding: 30px;
+}
+.mail{
+    width:4%;
+    padding: 30px;
+}
+
+
+
